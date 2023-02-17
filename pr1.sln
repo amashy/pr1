@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lambdaarifmet", "pr1\lambdaarifmet.csproj", "{BCE057A9-E029-417A-B758-AF60BE07F033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonBetween", "AnonBetween\AnonBetween.csproj", "{7657A0D3-2C6F-47A8-BA11-8AD6EC8F4594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE057A9-E029-417A-B758-AF60BE07F033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE057A9-E029-417A-B758-AF60BE07F033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE057A9-E029-417A-B758-AF60BE07F033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE057A9-E029-417A-B758-AF60BE07F033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7657A0D3-2C6F-47A8-BA11-8AD6EC8F4594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7657A0D3-2C6F-47A8-BA11-8AD6EC8F4594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7657A0D3-2C6F-47A8-BA11-8AD6EC8F4594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7657A0D3-2C6F-47A8-BA11-8AD6EC8F4594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC21CBE-9691-4CE5-A9DE-D3083BB50E62}
+	EndGlobalSection
+EndGlobal

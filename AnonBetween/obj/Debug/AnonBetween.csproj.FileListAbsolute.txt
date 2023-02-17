@@ -1,0 +1,8 @@
+D:\vsprj\pr1\AnonBetween\bin\Debug\AnonBetween.exe.config
+D:\vsprj\pr1\AnonBetween\bin\Debug\AnonBetween.exe
+D:\vsprj\pr1\AnonBetween\bin\Debug\AnonBetween.pdb
+D:\vsprj\pr1\AnonBetween\obj\Debug\AnonBetween.csproj.AssemblyReference.cache
+D:\vsprj\pr1\AnonBetween\obj\Debug\AnonBetween.csproj.SuggestedBindingRedirects.cache
+D:\vsprj\pr1\AnonBetween\obj\Debug\AnonBetween.csproj.CoreCompileInputs.cache
+D:\vsprj\pr1\AnonBetween\obj\Debug\AnonBetween.exe
+D:\vsprj\pr1\AnonBetween\obj\Debug\AnonBetween.pdb
